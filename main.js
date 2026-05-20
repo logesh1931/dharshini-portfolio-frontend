@@ -1,8 +1,7 @@
 // ─── API Base URL ─────────────────────────────────────────────────
 // When deployed: frontend calls backend Render URL
 // Change this to your actual Render backend URL after deployment
-const API_BASE = 'https://dharshini-portfolio-api-3x5m.onrender.com/';
-// For local testing, comment above and uncomment below:
+const API_BASE = 'https://dharshini-portfolio-api-3x5m.onrender.com/api';// For local testing, comment above and uncomment below:
 // const API_BASE = 'http://localhost:5000/api';
 
 // ─── Custom Cursor ────────────────────────────────────────────────
